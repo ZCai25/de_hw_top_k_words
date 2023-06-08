@@ -1,2 +1,8 @@
 # de_hw
-data engineering class projects
+This is the first assignment from Data Engineering course.
+
+The goal of the project is to write code from scratch that can get the k most frequent words from a text file that is as big as 16 GB.
+
+Since the data file is as large as the memory of my laptop, simple approaches like opening the file and reading the whole file will not work.
+
+Thus, the file is read in chunks of 1GB. To make the process faster, multi-processing is used.
