@@ -1,4 +1,4 @@
-# de_hw
+# find the top k words in a large dataset
 This is the first assignment from Data Engineering course.
 
 The goal of the project is to write code from scratch that can get the k most frequent words from a text file that is as big as 16 GB.
