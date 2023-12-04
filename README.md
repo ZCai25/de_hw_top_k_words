@@ -1,4 +1,4 @@
-# find the top k words in a large dataset
+# Finding the top k words in a large dataset
 
 The goal of the project is to write code from scratch that can get the k most frequent words from a text file that is as big as 16 GB.
 
